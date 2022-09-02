@@ -1,10 +1,10 @@
 
 <div align="center">
   <h1>
-      Dongcheon Ko
+      Dongcheon Ko 
   </h1>
   
-### Hi, I'm Back-End Developer :technologist:
+### Hi, I'm Back-End Developer 👨‍💻
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center">
